@@ -1,5 +1,7 @@
 # Profanity Checker
 
+Package used to check if a string has profanity. 
+
 Usage 
 
 ```
