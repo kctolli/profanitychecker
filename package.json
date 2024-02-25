@@ -1,6 +1,6 @@
 {
   "name": "@kctolli/profanitychecker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Given a string this will check it for bad words",
   "main": "index.ts",
   "type": "module",
